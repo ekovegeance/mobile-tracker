@@ -13,10 +13,10 @@ Project Micro Controller Arduino Uno | Mobile Tracker
 
 #### Run Locally
 ```bash
-git clone https://github.com/ekovegeance/Mobile-Tracker.git
+git clone https://github.com/ekovegeance/mobile-tracker.git
 ```
 ```bash
-cd Mobile-Tracker
+cd mobile-tracker
 ```
 
 #### COMPONENTS AND SUPPLIES
